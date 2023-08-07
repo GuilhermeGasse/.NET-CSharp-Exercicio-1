@@ -39,7 +39,7 @@ p3.ApresentarPessoa();
 
 BachareladoCienciaDaComputacao.AdicionarAluno(p1);
 BachareladoCienciaDaComputacao.AdicionarAluno(p2);
-BachareladoCienciaDaComputacao.ListarAlunos();
+BachareladoCienciaDaComputacao.ListarAlunos2();
 
 BachareladoEnfermagem.AdicionarAluno(p3);
-BachareladoEnfermagem.ListarAlunos();
+BachareladoEnfermagem.ListarAlunos2();
