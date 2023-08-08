@@ -1,3 +1,4 @@
-Linha 1 do arquivo de leitura.
-Linha 2 do arquivo de leitura.
-Linha 3 do arquivo de leitura.
+Testando arquivo de leitura.
+Código a seguir para incrementar mais conceitos.
+
+Etapas do empreendimento:

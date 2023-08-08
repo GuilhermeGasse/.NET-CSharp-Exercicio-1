@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Produto": "Softwares sob medida.",
+    "Preco": 10000.0
+  },
+  {
+    "ID": 2,
+    "Produto": "Conhecimento técnico.",
+    "Preco": 3500.0
+  },
+  {
+    "ID": 3,
+    "Produto": "Mão de obra qualificada.",
+    "Preco": 4000.0
+  }
+]

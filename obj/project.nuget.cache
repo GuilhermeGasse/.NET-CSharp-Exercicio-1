@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uydvEo2R6puLs+TTJ89RvAdlQQMAD9xyYHnFN53aqG+4ETfcyUL0AcJqCUnUzYRRy4jeR7Lk4KpHv5thnm2CrA==",
+  "dgSpecHash": "bA+z+j9cKfMZxLSUVlpN8K0aPtx/a41V78OKOR63ZvF9kPFObSkJc2GY2/6txK6t+4TMgxarY225/2MJixsbOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\guilh\\Documents\\Estudo principal\\Estudos TI\\Prática\\Aplicações de programação\\C#\\ex1\\.NET-CSharp-Exercicio-1\\ex1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

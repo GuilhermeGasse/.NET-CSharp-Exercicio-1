@@ -28,3 +28,5 @@ C:\Users\guilh\Documents\Estudo principal\Estudos TI\Prática\Aplicações de pr
 C:\Users\guilh\Documents\Estudo principal\Estudos TI\Prática\Aplicações de programação\C#\ex1\.NET-CSharp-Exercicio-1\obj\Debug\net7.0\ex1.pdb
 C:\Users\guilh\Documents\Estudo principal\Estudos TI\Prática\Aplicações de programação\C#\ex1\.NET-CSharp-Exercicio-1\obj\Debug\net7.0\ex1.genruntimeconfig.cache
 C:\Users\guilh\Documents\Estudo principal\Estudos TI\Prática\Aplicações de programação\C#\ex1\.NET-CSharp-Exercicio-1\obj\Debug\net7.0\ref\ex1.dll
+C:\Users\guilh\Documents\Estudo principal\Estudos TI\Prática\Aplicações de programação\C#\ex1\.NET-CSharp-Exercicio-1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\guilh\Documents\Estudo principal\Estudos TI\Prática\Aplicações de programação\C#\ex1\.NET-CSharp-Exercicio-1\obj\Debug\net7.0\ex1.csproj.CopyComplete
